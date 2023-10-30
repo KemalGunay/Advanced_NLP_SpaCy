@@ -10,10 +10,10 @@ In this chapter, you'll use your new skills to extract specific information from
 
 
 
-## Chapter 3: Processing Pipelines
+## Chapter 3: Processing Pipelines
 This chapter will show you everything you need to know about spaCy's processing pipeline. You'll learn what goes on under the hood when you process a text, how to write your own components and add them to the pipeline, and how to use custom attributes to add your own metadata to the documents, spans and tokens.
 
 
 
-## Chapter 4: Training a neural network model
+## Chapter 4: Training a neural network model
 In this chapter, you'll learn how to update spaCy's statistical models to customize them for your use case – for example, to predict a new entity type in online comments. You'll train your own model from scratch, and understand the basics of how training works, along with tips and tricks that can make your custom NLP projects more successful.
